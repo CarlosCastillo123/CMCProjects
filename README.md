@@ -1,1 +1,1 @@
-# CMCProjects
+The goal of this site is to showcase a portfolio of coding application # CMCProjects
