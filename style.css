@@ -1,19 +1,15 @@
 .content {
     display: flex;
-    flex-direction: row;
-    align-content: flex-start;
-    justify-content: center;
+    
     width: 400px;
     margin: 20px;
-    
-   
 
 }
 
 .horizon {
     image-rendering: auto;
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
 }
 
 
@@ -21,6 +17,7 @@
 .hike {
     image-rendering: auto;
     width: 200px;
+    height: 200px;
     
 
 
@@ -45,7 +42,7 @@ ul {
     
 }
 li a {
-    color: white;
+    color: black;
 }
 li {
     font-size: large;
